@@ -73,10 +73,10 @@ export class View {
         this.context.fillStyle = '#e74c3c';
         break;
       case 1:
-        this.context.fillStyle = '#green';
+        this.context.fillStyle = 'green';
         break;
       case 2:
-        this.context.fillStyle = '#white';
+        this.context.fillStyle = 'white';
         break;
       case 3:
         this.context.fillStyle = 'yellow';
